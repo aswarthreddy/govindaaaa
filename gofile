@@ -1,0 +1,21 @@
+git add .
+git commit -m "comit message"
+git status
+git log
+git show commit id
+git log --oneline
+git rm --cached filename
+git config --global --list
+git config --global user.name "hari"
+git config --global user.email "hari@gmail.com"
+git revert commit id
+git push githuburl master(branch name)
+git remote add  githuburl https....... .git 
+git remote -v 
+git commit -am "commit message"
+git branch  ==== to check the branch list in Git
+git branch  branch-name (bugfix) ===> if you want create bugfix branch
+git checkout bugfix (branch-name)
+git merge  bugfix
+git checkout -b branch-name (feature)
+git branch -d branch-name
